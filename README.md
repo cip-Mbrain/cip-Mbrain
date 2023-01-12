@@ -1,4 +1,4 @@
-<img align="center" height="250px" width="100%" src="https://raw.githubusercontent.com/cip-Mbrain/cip-Mbrain/main/banner.jpg"/>
+<img align="center" height="300px" width="1000px" src="https://raw.githubusercontent.com/cip-Mbrain/cip-Mbrain/main/code.jpg"/>
 <h1 align="center">Hi 👋, I'm Cip-Mbrain(Machinic-Brain)</h1>
 <h2 align="center"> ABOUT ME </h2> <h3 align="center">A Software Developer from My Village!!</h3>
 Self Starter & Quick Learner, Passionate about Coding & Technology as well as shipping my ideas into apps, Encouraging others to code through Coding Blogs & YouTube Channel.
@@ -13,7 +13,8 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 - 📫 How to reach me **ennocentcip@gmail.com**
 
 - ⚡ Fun fact **up and running, Doing Hard things**
-
+-     Udemy Lover, friends of edx & coursera
+-     student @ alx
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
